@@ -5,7 +5,7 @@ export default function Home() {
     <main>
 
       <section>
-        <h1>Hey, I&apos;m Alfonso 👋🏻</h1>
+        <span>Hey, I&apos;m Alfonso 👋🏻</span>
         <span>Add here subtitle....</span>
       </section>
 
