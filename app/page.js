@@ -6,7 +6,9 @@ export default function Home() {
 
       <section>
         <h1>Hey, I&apos;m Alfonso 👋🏻</h1>
-        <span>Add here subtitle....</span>
+        <span>Software developer who enjoys learning and sharing knowledge. Based in Italy 🇮🇹</span>
+        <span>Senior Developer @ Nearform | AWS Solutions Architect Associate | Pasta addicted 🍝</span>
+
       </section>
 
       <section>
