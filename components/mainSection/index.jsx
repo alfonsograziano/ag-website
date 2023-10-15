@@ -41,7 +41,7 @@ export default function MainSection() {
           </div>
         </div>
 
-        <div className={{ ...styles.column, ...styles.container }}>
+        <div className={styles.imageContainer}>
           <Image
             src="/me.jpg"
             width={240}
