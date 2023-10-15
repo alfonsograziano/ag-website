@@ -60,3 +60,31 @@
   align-items: center;
   justify-content: center;
 }
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+  }
+
+  .column {
+    max-width: 100%;
+    order: 2;
+  }
+
+  .imageContainer {
+    order: 1;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .description {
+    text-align: center;
+  }
+
+  .linksContainer {
+    justify-content: center;
+  }
+}
