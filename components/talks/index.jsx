@@ -38,12 +38,12 @@ export default function Talks() {
       {talks.map((talk, index) => (
         <div key={index} className={styles.containerShadow}>
           <div className={styles.container}>
-            <p>
+            <span>
               <b>{talk.eventName}</b>
               <br />
               {talk.talkTitle}
-            </p>
-            <p>{formatDate(talk.date)}</p>
+            </span>
+            <span>{formatDate(talk.date)}</span>
           </div>
         </div>
       ))}
