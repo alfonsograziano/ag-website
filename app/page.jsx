@@ -1,10 +1,10 @@
-import Image from "next/image";
 import styles from "./styles.module.css";
 import MainSection from "@/components/mainSection";
 import WorkingAt from "@/components/workingAt";
 import Contact from "@/components/contact";
 import Talks from "@/components/talks";
 import OneDay from "@/components/oneDay";
+import Certifications from "@/components/certifications";
 
 export default function Home() {
   return (
@@ -13,6 +13,7 @@ export default function Home() {
       <WorkingAt />
       <Talks />
       <OneDay />
+      <Certifications />
       <Contact />
     </main>
   );
