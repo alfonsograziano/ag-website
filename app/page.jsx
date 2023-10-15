@@ -4,6 +4,7 @@ import MainSection from "@/components/mainSection";
 import WorkingAt from "@/components/workingAt";
 import Contact from "@/components/contact";
 import Talks from "@/components/talks";
+import OneDay from "@/components/oneDay";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <MainSection />
       <WorkingAt />
       <Talks />
+      <OneDay />
       <Contact />
     </main>
   );
