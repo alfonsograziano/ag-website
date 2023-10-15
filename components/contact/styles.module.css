@@ -27,3 +27,9 @@
   line-height: 50px;
   letter-spacing: -1px;
 }
+
+@media (max-width: 768px) {
+  .emailLink {
+    font-size: 24px;
+  }
+}
