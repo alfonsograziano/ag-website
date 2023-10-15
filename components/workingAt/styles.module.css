@@ -1,7 +1,20 @@
+.containerShadow {
+  border-radius: 10px;
+  box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.3);
+  width: 100%;
+}
 .container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
   align-items: center;
 }
 
@@ -10,24 +23,33 @@
   max-width: 50%;
 }
 
+.imageColumn {
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .title {
   color: #191919;
-  font-size: 30px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 700;
   line-height: 70px; /* 120.69% */
   letter-spacing: -1px;
   margin: 0px;
+  margin-bottom: 10px;
 }
 
 .description {
   color: #323232;
-  font-size: 20px;
+  font-size: 18px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 30px;
-  letter-spacing: -1px;
   margin: 0px;
+  margin-bottom: 20px;
 }
 
 .image {
@@ -35,14 +57,7 @@
   border: 5px solid #2064e5;
 }
 
-.linksContainer {
-  display: flex;
-  gap: 30px;
-  flex-wrap: wrap;
-  margin-top: 20px;
-}
-
-.linkCard {
+.link {
   color: #2064e5;
   border-radius: 5px;
   background: #fff;
