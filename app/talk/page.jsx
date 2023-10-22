@@ -17,6 +17,11 @@ export const talks = [
     name: "Create videos... with React! [IT]",
     slug: "create_videos_it",
   },
+  {
+    id: "2PACX-1vTcPZYPQB9_bTC5IZI93bY23gBC_0c4Yz0xs6uaGeZDTFTKuu0GBULpi2eJNVsavvRf3QJK7TWjG4e6",
+    name: "Cloud 101 [IT]",
+    slug: "cloud_101",
+  },
 ];
 
 export default async function Talks() {

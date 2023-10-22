@@ -9,10 +9,9 @@ export default function OneDay() {
       <iframe
         src="https://www.youtube.com/embed/T8lIr6OX1JI?si=9NmBDuaSLdwGV75u"
         title="One day in the life of a Software Engineer in ITALY 🇮🇹🍕🍝"
-        frameborder="0"
         className={styles.video}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen
+        allowFullScreen
         loading="lazy"
       ></iframe>
     </section>
