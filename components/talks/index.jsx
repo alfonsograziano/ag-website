@@ -21,7 +21,7 @@ const talks = [
   {
     eventName: "DevDays Europe 2024",
     talkTitle: "Creating videos... With React!",
-    date: buildDate(23, 3, 2024),
+    date: buildDate(23, 5, 2024),
     where: "Vilnius, Lithuania 🇱🇹",
   },
   {
