@@ -3,6 +3,11 @@ import Link from "next/link";
 
 export const talks = [
   {
+    id: "2PACX-1vTszcZ1DY4r2iQnfy5pxQJKO7aOQFSI4-3M8b8Z9buRJTUxfA7Q6WZ7tOA0X_HWAg",
+    name: "The Staff Engineer VS Manager Path: A window over the tech career paths [IT]",
+    slug: "career_growth_it",
+  },
+  {
     id: "2PACX-1vQhUH-qTFZsVNpB55gow10b8bp_ACr3QKuIORj2-vFwYRnPL69AxXQtWSG0jPVCASczRPaMVqYMeUQW",
     name: "The Staff Engineer VS Manager Path: A window over the tech career paths",
     slug: "career_growth",

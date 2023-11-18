@@ -22,6 +22,11 @@ const nextConfig = {
         destination: "https://youtube.com/@alfonsograziano",
         permanent: false,
       },
+      {
+        source: "/bari",
+        destination: "/talk/career_growth_it",
+        permanent: false,
+      },
     ];
   },
 };
