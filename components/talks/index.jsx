@@ -25,6 +25,13 @@ const talks = [
     where: "Vilnius, Lithuania 🇱🇹",
   },
   {
+    eventName: "RomaJS Meetup",
+    talkTitle:
+      "Creating videos... With React!",
+    date: buildDate(21, 2, 2024),
+    where: "Rome, Italy 🇮🇹",
+  },
+  {
     eventName: "DevFest Bari",
     talkTitle:
       "The Staff Engineer VS Manager Path: A window over the tech career paths",
@@ -41,7 +48,7 @@ const talks = [
     eventName: "DevFest Napoli",
     talkTitle: "Creating videos... With React!",
     date: buildDate(28, 10, 2023),
-    where: "Napoli, Italy 🇮🇹",
+    where: "Naples, Italy 🇮🇹",
   },
   {
     eventName: "DevDay Salerno",
