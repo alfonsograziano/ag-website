@@ -28,6 +28,11 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/romajs",
+        destination: "/talk/videos_react_it",
+        permanent: false,
+      },
+      {
         source: "/aws",
         destination: "/blog/f64d410e694c4aaea52106124b8c535e",
         permanent: false,
