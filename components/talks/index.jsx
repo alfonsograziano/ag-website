@@ -19,15 +19,20 @@ const buildDate = (day, month, year) => new Date(year, month - 1, day);
 
 const talks = [
   {
-    eventName: "DevDays Europe 2024",
+    eventName: "React Summit",
+    talkTitle: "Creating videos... With React!",
+    date: buildDate(18, 6, 2024),
+    where: "Online",
+  },
+  {
+    eventName: "DevDays Europe",
     talkTitle: "Creating videos... With React!",
     date: buildDate(23, 5, 2024),
     where: "Vilnius, Lithuania 🇱🇹",
   },
   {
     eventName: "RomaJS Meetup",
-    talkTitle:
-      "Creating videos... With React!",
+    talkTitle: "Creating videos... With React!",
     date: buildDate(21, 2, 2024),
     where: "Rome, Italy 🇮🇹",
   },

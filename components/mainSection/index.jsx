@@ -48,6 +48,7 @@ export default function MainSection() {
             height={240}
             alt="me"
             className={styles.image}
+            priority
           />
         </div>
       </div>

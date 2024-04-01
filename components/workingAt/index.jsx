@@ -13,13 +13,13 @@ export default function WorkingAt() {
               src="/nearform.png"
               width={140}
               height={140}
-              alt="NearForm"
+              alt="Nearform"
             />
           </div>
 
           <div className={styles.column}>
             <p className={styles.description}>
-              <b>NearForm</b> creates software solutions that accelerate
+              <b>Nearform</b> creates software solutions that accelerate
               enterprise success, enrich customer experience and contribute to
               the development of our community.
             </p>
