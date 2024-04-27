@@ -13,7 +13,7 @@ export const talks = [
     slug: "career_growth",
   },
   {
-    id: "2PACX-1vSjKUUdSG7AVTuLlI0tO6A_PMBSB9HJ3y9Wh6CbfZXRN24B_LExqNbMXdYlYKcAZA",
+    id: "2PACX-1vSD46lCGsB_WUl3yCFGaKAwdqkFGr2jo739ZsJLg5qGViiFRmDYAfB9F0J3AwQxoEMm99ePKku52kgX",
     name: "Create videos... with React!",
     slug: "create_videos",
   },
