@@ -32,6 +32,12 @@ const talks = [
     where: "Amsterdam, Netherlands 🇳🇱",
   },
   {
+    eventName: "Road to Coderful",
+    talkTitle: "AI-generated UI: The state of the Art",
+    date: buildDate(8, 6, 2024),
+    where: "Naples, Italy 🇮🇹",
+  },
+  {
     eventName: "DevDays Europe",
     talkTitle: "Creating videos... With React!",
     date: buildDate(23, 5, 2024),
