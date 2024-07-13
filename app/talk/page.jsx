@@ -13,6 +13,11 @@ export const talks = [
     slug: "career_growth",
   },
   {
+    id: "2PACX-1vQeQc55n8zcslDwvJmej9eYJZsXcq1TCjxg2cgMDVAgOSsDQ_04x3iN7jMoQ8T0dxNq1QB8gXCLWL5n",
+    name: "The Staff Engineer VS Manager Path: A window over the tech career paths (v2)",
+    slug: "career_growth_2",
+  },
+  {
     id: "2PACX-1vSD46lCGsB_WUl3yCFGaKAwdqkFGr2jo739ZsJLg5qGViiFRmDYAfB9F0J3AwQxoEMm99ePKku52kgX",
     name: "Create videos... with React!",
     slug: "create_videos",
