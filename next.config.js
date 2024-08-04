@@ -42,6 +42,11 @@ const nextConfig = {
         destination: "/blog/f64d410e694c4aaea52106124b8c535e",
         permanent: false,
       },
+      {
+        source: "/nearform",
+        destination: "https://calendly.com/alfonso-graziano/30min",
+        permanent: false
+      }
     ];
   },
 };
