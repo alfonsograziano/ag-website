@@ -25,6 +25,13 @@ const talks = [
     where: "Bari, Italy 🇮🇹",
   },
   {
+    eventName: "DevFest Modena",
+    talkTitle:
+      "The Staff Engineer VS Manager Path: A window over the tech career paths",
+    date: buildDate(12, 10, 2024),
+    where: "Modena, Italy 🇮🇹",
+  },
+  {
     eventName: "Come To Code",
     talkTitle: "Creating videos... With React!",
     date: buildDate(29, 9, 2024),
