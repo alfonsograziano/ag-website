@@ -28,7 +28,7 @@ export default function MainSection() {
         <div className={styles.column}>
           <h1 className={styles.title}>Hey, I&apos;m Alfonso 👋🏻</h1>
           <p className={styles.description}>
-            Software Developer who enjoys learning and sharing knowledge. Based
+            I'm a problem solver who enjoys learning and sharing knowledge. Based
             in Italy 🇮🇹
           </p>
 
