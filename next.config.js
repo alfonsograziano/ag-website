@@ -45,13 +45,18 @@ const nextConfig = {
       {
         source: "/nearform",
         destination: "https://calendly.com/alfonso-graziano/30min",
-        permanent: false
+        permanent: false,
       },
       {
         source: "/ctc",
         destination: "https://forms.gle/B6BnQkCPuajbaheb9",
-        permanent: false
-      }
+        permanent: false,
+      },
+      {
+        source: "/modena",
+        destination: "https://forms.gle/mU9RK85LDij8fYim6",
+        permanent: false,
+      },
     ];
   },
 };
