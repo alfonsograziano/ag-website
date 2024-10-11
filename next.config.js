@@ -24,7 +24,7 @@ const nextConfig = {
       },
       {
         source: "/bari",
-        destination: "/talk/career_growth_it",
+        destination: "https://forms.gle/995Uyf1X43ciVvgu8",
         permanent: false,
       },
       {
