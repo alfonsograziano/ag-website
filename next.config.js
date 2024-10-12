@@ -57,6 +57,12 @@ const nextConfig = {
         destination: "https://forms.gle/mU9RK85LDij8fYim6",
         permanent: false,
       },
+      {
+        source: "/modena/slide",
+        destination:
+          "https://docs.google.com/presentation/d/e/2PACX-1vQjX-F3Hj5Qn_8zjh9foTw_Jnlx6Iw3U0FLD9-MoXpc20KrNq8OHxnLwIDXMumu4kcAYSkjUAU1hnYS/pub?start=false&loop=false&delayms=3000",
+        permanent: false,
+      },
     ];
   },
 };
