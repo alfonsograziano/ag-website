@@ -28,6 +28,12 @@ const nextConfig = {
         permanent: false,
       },
       {
+        source: "/bari/slide",
+        destination:
+          "https://docs.google.com/presentation/d/e/2PACX-1vTTVNSh_D_GKmuDROlpMKqeQBmNIoNABjgBbRdM5IIRpW7A9AX_8Q-WLd32maR60ZlwGwHzPbu5zZ_x/pub?start=false&loop=false&delayms=3000",
+        permanent: false,
+      },
+      {
         source: "/worldcongress",
         destination: "/talk/career_growth_2",
         permanent: false,
