@@ -63,6 +63,17 @@ const nextConfig = {
           "https://docs.google.com/presentation/d/e/2PACX-1vQjX-F3Hj5Qn_8zjh9foTw_Jnlx6Iw3U0FLD9-MoXpc20KrNq8OHxnLwIDXMumu4kcAYSkjUAU1hnYS/pub?start=false&loop=false&delayms=3000",
         permanent: false,
       },
+      {
+        source: "/pescara/slide",
+        destination:
+          "https://docs.google.com/presentation/d/e/2PACX-1vSbYc5jvcBr2CxS-MA8gPS_OCM_TQsNx-wIMVKshjhV-DsfYvLD39TKUsWppyo0-ZutyU8N-ungUDdx/pub?start=false&loop=false&delayms=3000",
+        permanent: false,
+      },
+      {
+        source: "/pescara",
+        destination: "https://forms.gle/p2dLsV7GM9Rx4tAC7",
+        permanent: false,
+      },
     ];
   },
 };
