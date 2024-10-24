@@ -19,8 +19,16 @@ const buildDate = (day, month, year) => new Date(year, month - 1, day);
 
 const talks = [
   {
+    eventName: "DevFest Pescara",
+    talkTitle:
+      "The Staff Engineer VS Manager Path: A window over the tech career paths",
+    date: buildDate(9, 11, 2024),
+    where: "Pescara, Italy 🇮🇹",
+  },
+  {
     eventName: "DevFest Bari",
-    talkTitle: "Dal Percorso Universitario al Successo Professionale: Consigli Pratici",
+    talkTitle:
+      "Dal Percorso Universitario al Successo Professionale: Consigli Pratici",
     date: buildDate(26, 10, 2024),
     where: "Bari, Italy 🇮🇹",
   },
