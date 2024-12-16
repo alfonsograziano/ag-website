@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <main className={styles.pageContainer}>
       <MainSection />
-      <WorkingAt />
-      <Talks />
-      <OneDay />
       <Certifications />
+      <WorkingAt />
+      <OneDay />
+      <Talks />
       <Contact />
     </main>
   );

@@ -5,6 +5,12 @@
   align-items: center;
 }
 
+.role {
+  padding: 0px;
+  margin-top: -15px;
+  color: #0a40a5;
+}
+
 .column {
   flex: 1;
   max-width: 50%;

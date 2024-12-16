@@ -19,6 +19,13 @@ const buildDate = (day, month, year) => new Date(year, month - 1, day);
 
 const talks = [
   {
+    eventName: "Coderful",
+    talkTitle:
+      "Effortless Security: Simplify Authentication and Authorization with Open Source Tools",
+    date: buildDate(23, 1, 2025),
+    where: "Catania, Italy 🇮🇹",
+  },
+  {
     eventName: "DevFest Pescara",
     talkTitle:
       "The Staff Engineer VS Manager Path: A window over the tech career paths",
@@ -106,7 +113,7 @@ const talks = [
 export default function Talks() {
   return (
     <section className={styles.center}>
-      <h1 className={styles.title}>Talk</h1>
+      <h1 className={styles.title}>Talks</h1>
 
       {talks.map((talk, index) => (
         <div key={index} className={styles.containerShadow}>

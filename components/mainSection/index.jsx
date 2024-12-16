@@ -27,10 +27,10 @@ export default function MainSection() {
       <div className={styles.container}>
         <div className={styles.column}>
           <h1 className={styles.title}>Hey, I&apos;m Alfonso 👋🏻</h1>
+          <p className={styles.role}>Tech Lead @ Nearform</p>
           <p className={styles.description}>
-            {
-              "I'm a problem solver who enjoys learning and sharing knowledge. Based in Italy 🇮🇹"
-            }
+            I solve problems, sometimes by writing code, other times by talking
+            to people. Based in Italy 🇮🇹
           </p>
 
           <div className={styles.linksContainer}>
