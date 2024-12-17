@@ -11,6 +11,12 @@
   color: #0a40a5;
 }
 
+@media (max-width: 768px) {
+  .role {
+    text-align: center;
+  }
+}
+
 .column {
   flex: 1;
   max-width: 50%;
