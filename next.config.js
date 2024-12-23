@@ -80,6 +80,11 @@ const nextConfig = {
         destination: "https://forms.gle/p2dLsV7GM9Rx4tAC7",
         permanent: false,
       },
+      {
+        source: "/coderful",
+        destination: "https://forms.gle/Xf2g3jxZUiXsrYRJ9",
+        permanent: false,
+      },
     ];
   },
 };
