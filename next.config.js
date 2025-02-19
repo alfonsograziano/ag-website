@@ -85,6 +85,12 @@ const nextConfig = {
         destination: "https://forms.gle/Xf2g3jxZUiXsrYRJ9",
         permanent: false,
       },
+      {
+        source: "/devworld",
+        destination:
+          "https://docs.google.com/presentation/d/e/2PACX-1vQGfr3VLuxza2liZxe9nwdd3wL4ZgxclyTZ-n0HSvyoA2aTUgU4DVHEc8ex3v2AGhzIFYh6QIKubtqO/pub?start=false&loop=false&delayms=3000",
+        permanent: false,
+      },
     ];
   },
 };
