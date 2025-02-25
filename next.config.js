@@ -88,6 +88,12 @@ const nextConfig = {
       {
         source: "/devworld",
         destination:
+          "https://forms.gle/nZRziB5JWLQ8zwSs5",
+        permanent: false,
+      },
+      {
+        source: "/devworld/slides",
+        destination:
           "https://docs.google.com/presentation/d/e/2PACX-1vQGfr3VLuxza2liZxe9nwdd3wL4ZgxclyTZ-n0HSvyoA2aTUgU4DVHEc8ex3v2AGhzIFYh6QIKubtqO/pub?start=false&loop=false&delayms=3000",
         permanent: false,
       },
